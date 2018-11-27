@@ -1,0 +1,10 @@
+0;Citizen of Bridgeville;Make: Opel;Model: Meriva;Doors: 5
+1;Citizen of Bridgeville;Make: Opel;Model: Corsa;Doors: 3
+2;Citizen of Bridgeville;Make: Mercedes;Model: A180;Doors: 5
+3;Citizen of Bridgeville;Make: Mercedes;Model: B200;Doors: 5
+4;Citizen of Bridgeville;Make: Nissan;Model: Quashqai;Doors: 5
+5;Citizen of Bridgeville;Make: Nissan;Model: Leaf;Doors: 5
+6;Citizen of Bridgeville;Make: Volvo;Model: XC90;Doors: 5
+7;Citizen of Bridgeville;Make: Volvo;Model: V90;Doors: 5
+8;Citizen of Bridgeville;Make: Citroen;Model: SpaceTourer;Doors: 5
+9;Citizen of Bridgeville;Make: Jensen;Model: Ellert;Doors: 1
